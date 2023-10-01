@@ -1,5 +1,6 @@
 mod controller;
 mod job;
+mod stream;
 mod worker;
 
 #[tokio::main]
